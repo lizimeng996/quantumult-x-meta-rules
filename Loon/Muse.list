@@ -1,0 +1,35 @@
+# NAME: Muse
+# DESC: Muse + Meta AI + Meta account login essentials
+# REPO: https://github.com/lizimeng996/quantumult-x-meta-rules
+# UPDATED: 2026-11-01
+# HOST: 6
+# HOST-SUFFIX: 20
+# TOTAL: 26
+# SOURCES: juner922/muse-loon-rules, Tartarus2014/Loon-Script, VPSDance/ai-proxy-rules, zhbcn/Rules, v2fly/domain-list-community, blackmatrix7/ios_rule_script, RIPEstat (AS32934/AS63293/AS54115)
+#
+DOMAIN,hatch.ecto1.ai
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+DOMAIN,meta.privacy-gateway.cloudflare.com
+DOMAIN,node.hatch.one
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbpigeon.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,llamameta.net
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
