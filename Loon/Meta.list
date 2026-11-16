@@ -1,13 +1,13 @@
 # NAME: Meta
 # DESC: Muse + Meta AI + all Meta services/accounts + Meta IP ranges
 # REPO: https://github.com/lizimeng996/quantumult-x-meta-rules
-# UPDATED: 2026-11-02
+# UPDATED: 2026-11-16
 # HOST: 6
 # HOST-SUFFIX: 561
-# IP-CIDR: 80
+# IP-CIDR: 81
 # IP6-CIDR: 42
 # IP-ASN: 3
-# TOTAL: 692
+# TOTAL: 693
 # SOURCES: juner922/muse-loon-rules, Tartarus2014/Loon-Script, VPSDance/ai-proxy-rules, zhbcn/Rules, v2fly/domain-list-community, blackmatrix7/ios_rule_script, RIPEstat (AS32934/AS63293/AS54115)
 #
 DOMAIN,hatch.ecto1.ai
@@ -639,6 +639,7 @@ IP-CIDR,157.240.144.0/24,no-resolve
 IP-CIDR,157.240.156.0/23,no-resolve
 IP-CIDR,157.240.158.0/24,no-resolve
 IP-CIDR,157.240.169.0/24,no-resolve
+IP-CIDR,157.240.170.0/24,no-resolve
 IP-CIDR,157.240.175.0/24,no-resolve
 IP-CIDR,157.240.177.0/24,no-resolve
 IP-CIDR,157.240.179.0/24,no-resolve
